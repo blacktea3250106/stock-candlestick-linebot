@@ -29,7 +29,7 @@ To deploy this bot on Fly.io, follow these steps:
    ```shell
    flyctl launch
 
-3. Launch the project using Fly.io:
+3. Deploy the bot to Fly.io:
 
    ```shell
    flyctl deploy
