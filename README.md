@@ -36,9 +36,9 @@ To deploy this bot on Fly.io, follow these steps:
 
 ## References
 
-- [LINE Chatbot Tutorial (HackMD)](link_to_hackmd)
-- [LINE Bot Development (HackMD)](link_to_hackmd)
-- [YouTube Tutorial (Chinese)](link_to_youtube)
+- [LINE Chatbot Tutorial (HackMD)]([link_to_hackmd](https://hackmd.io/@littlehsun/linechatbot))
+- [LINE Bot Development (HackMD)]([link_to_hackmd](https://hackmd.io/@littlehsun/r1RK0QDwj))
+- [YouTube Tutorial (Chinese)]([link_to_youtube](https://www.youtube.com/watch?v=uqkJmsb8UIY))
 
 ## Acknowledgments
 
