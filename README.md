@@ -1,4 +1,4 @@
-# Stock Candlestick LINEBOT with Flask and Fly.io
+# Stock Candlestick LineBot with Flask and Fly.io
 
 <img src="screenshots/Flask-股票機器人.gif" width="640" height="360">
 
